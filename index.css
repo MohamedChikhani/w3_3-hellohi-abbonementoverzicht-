@@ -1,0 +1,14 @@
+            table {
+                color: white;
+                width: 410px;
+                height: 200px;
+                border-collapse: collapse;
+                
+            }
+            th {
+                background-color:rgb(154, 173, 239);
+            }
+            
+            table, td, th {
+                padding: 20px;
+            }
