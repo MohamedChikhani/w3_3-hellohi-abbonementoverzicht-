@@ -3,8 +3,14 @@
                 width: 410px;
                 height: 200px;
                 border-collapse: collapse;
+                overflow:hidden;
+
+                
                 
             }
+            table{border-collapse: collapse;
+            overflow:hidden;
+            border-radius: 0 0 50px 0;}
             th {
                 background-color:rgb(154, 173, 239);
             }
